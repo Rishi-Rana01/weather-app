@@ -1,1 +1,1 @@
-https://rishi-rana01.github.io/foodorder/
+https://weather-app-fawn-iota.vercel.app/
